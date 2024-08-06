@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cabecalho{
+    background-color: #1d88ec;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .cabecalho-imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    width: 20%;
+  }
+  
+  .profissao-nome {
+    color: #ec701d;
+  }
+
+  .descricao-profissao {
+    background-image: linear-gradient(#1d88ec, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+  }
+
+  .descricao-profissao-div {
+    width: 30%;
+  }
+
+  .profissao-texto-um {
+    padding: 24px 0;
+  }
+
+  .profissao-texto-dois {
+    padding: 24px 0;
+  }
+
+  .profissao-texto-tres {
+    padding: 24px 0;
+  }
